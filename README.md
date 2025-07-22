@@ -30,7 +30,7 @@ Progettato per tecnici informatici che vogliono velocizzare le operazioni quotid
 
 ## 📥 Download rapido
 
-Scarica la versione completa di **IT Utilities** da [Releases](https://github.com/TUO_USERNAME/it-utilities/releases/latest).
+Scarica la versione completa di **IT Utilities** da [Releases](https://github.com/FaustoMosciaro/it-utilities/releases/latest).
 
 ---
 

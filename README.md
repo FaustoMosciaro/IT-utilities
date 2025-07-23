@@ -27,7 +27,7 @@ Un launcher semplice e organizzato per accedere rapidamente a una suite di strum
 
 ## 📦 Versione zip
 
-Puoi scaricare la versione ZIP con la struttura già pronta dalla sezione [Releases](https://github.com/FaustoMosciaro/usb-tool-launcher/releases).
+Puoi scaricare la versione ZIP con la struttura già pronta da qui! --> (https://github.com/FaustoMosciaro/IT-utilities/releases/tag/v1.0).
 
 ---
 

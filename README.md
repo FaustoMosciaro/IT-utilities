@@ -1,47 +1,36 @@
-# 🧰 IT Utilities
+# USB Tool Launcher 🔧💾
 
-Raccolta di script utili per la **manutenzione, diagnostica e ottimizzazione di PC Windows**.  
-Progettato per tecnici informatici che vogliono velocizzare le operazioni quotidiane.
+Un launcher semplice e organizzato per accedere rapidamente a una suite di strumenti USB portatili. Perfetto per tecnici informatici, sistemisti o utenti avanzati che lavorano frequentemente con boot USB, diagnostica e gestione dispositivi.
 
----
+## 🚀 Come si usa
 
-## ⚙️ Contenuto degli script
+1. Scarica o clona questo repository.
+2. Avvia il launcher eseguendo il file `launcher.bat`.
 
-### **Cleanup**
-- **cleanup_temp.bat** – elimina file temporanei e cache per liberare spazio.
+## 🛠 Tool inclusi
 
-### **Network**
-- **reset_network.bat** – resetta lo stack TCP/IP e ripristina la connessione.
-- **flush_dns.bat** – svuota la cache DNS per risolvere problemi di navigazione.
+| Tool               | Descrizione                                              |
+|--------------------|----------------------------------------------------------|
+| **Rufus**          | Crea facilmente chiavette USB avviabili                 |
+| **Ventoy**         | Carica più ISO su un'unica chiavetta                    |
+| **USBDeview**      | Visualizza e gestisci dispositivi USB collegati         |
+| **BalenaEtcher**   | Flash di immagini OS su USB e SD card in modo semplice  |
+| **WinSetupFromUSB**| Utility avanzata per installazioni multiple su USB      |
 
-### **System**
-- **check_updates.ps1** – controlla e installa gli aggiornamenti di Windows.
-- **disable_startup_apps.ps1** – disattiva le app all’avvio per velocizzare il sistema.
+## 👨‍💻 Ideale per
 
----
+- Tecnici IT
+- Sistemisti
+- Help desk e supporto tecnico
+- Laboratori di informatica
+- Chi crea spesso USB bootabili
 
-## ▶️ Utilizzo
+## 📦 Versione zip
 
-1. Scarica lo script di interesse.
-2. **Eseguilo come Amministratore** (tasto destro > "Esegui come amministratore").
-3. Segui le istruzioni sullo schermo.
-
----
-
-## 📥 Download rapido
-
-Scarica la versione completa di **IT Utilities** da [Releases](https://github.com/FaustoMosciaro/it-utilities/releases/latest).
+Puoi scaricare la versione ZIP con la struttura già pronta dalla sezione [Releases](https://github.com/FaustoMosciaro/usb-tool-launcher/releases).
 
 ---
 
-## 💡 Personalizzazioni
+## 🔒 Licenza
 
-Se hai bisogno di **funzioni o script personalizzati**, puoi aprire una Issue o contattarmi.
-
----
-
-## 📜 Licenza
-
-Distribuito sotto licenza **MIT**. Puoi usare, modificare e condividere liberamente.
-
----
+Questo progetto è rilasciato sotto licenza MIT. Ogni software incluso nel launcher conserva la propria licenza.
